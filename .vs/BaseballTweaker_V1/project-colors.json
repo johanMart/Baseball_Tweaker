@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9018e726-98af-4e9c-b2d1-ca784b894851": {
+      "ProjectGuid": "9018e726-98af-4e9c-b2d1-ca784b894851",
+      "DisplayName": "File_I_O",
+      "ColorIndex": 0
+    },
+    "e1a4d67a-7566-44a1-9050-c31902ec2c96": {
+      "ProjectGuid": "e1a4d67a-7566-44a1-9050-c31902ec2c96",
+      "DisplayName": "Model",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
