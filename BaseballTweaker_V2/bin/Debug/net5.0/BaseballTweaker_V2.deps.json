@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BaseballTweaker_V2/1.0.0": {
+        "dependencies": {
+          "BaseballTweaker_V2.Model": "1.0.0",
+          "BaseballTweaker_v2.File_I_O": "1.0.0"
+        },
+        "runtime": {
+          "BaseballTweaker_V2.dll": {}
+        }
+      },
+      "BaseballTweaker_v2.File_I_O/1.0.0": {
+        "dependencies": {
+          "BaseballTweaker_V2.Model": "1.0.0"
+        },
+        "runtime": {
+          "BaseballTweaker_v2.File_I_O.dll": {}
+        }
+      },
+      "BaseballTweaker_V2.Model/1.0.0": {
+        "runtime": {
+          "BaseballTweaker_V2.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaseballTweaker_V2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BaseballTweaker_v2.File_I_O/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BaseballTweaker_V2.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

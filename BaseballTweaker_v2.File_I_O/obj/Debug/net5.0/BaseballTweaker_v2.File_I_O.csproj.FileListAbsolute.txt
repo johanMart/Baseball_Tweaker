@@ -1,0 +1,15 @@
+C:\Users\cap-16\source\repos\BaseballTweaker_V2\BaseballTweaker_v2.File_I_O\obj\Debug\net5.0\BaseballTweaker_v2.File_I_O.csproj.AssemblyReference.cache
+C:\Users\cap-16\source\repos\BaseballTweaker_V2\BaseballTweaker_v2.File_I_O\obj\Debug\net5.0\BaseballTweaker_v2.File_I_O.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cap-16\source\repos\BaseballTweaker_V2\BaseballTweaker_v2.File_I_O\obj\Debug\net5.0\BaseballTweaker_v2.File_I_O.AssemblyInfoInputs.cache
+C:\Users\cap-16\source\repos\BaseballTweaker_V2\BaseballTweaker_v2.File_I_O\obj\Debug\net5.0\BaseballTweaker_v2.File_I_O.AssemblyInfo.cs
+C:\Users\cap-16\source\repos\BaseballTweaker_V2\BaseballTweaker_v2.File_I_O\obj\Debug\net5.0\BaseballTweaker_v2.File_I_O.csproj.CoreCompileInputs.cache
+C:\Users\cap-16\source\repos\BaseballTweaker_V2\BaseballTweaker_v2.File_I_O\bin\Debug\net5.0\BaseballTweaker_v2.File_I_O.deps.json
+C:\Users\cap-16\source\repos\BaseballTweaker_V2\BaseballTweaker_v2.File_I_O\bin\Debug\net5.0\BaseballTweaker_v2.File_I_O.dll
+C:\Users\cap-16\source\repos\BaseballTweaker_V2\BaseballTweaker_v2.File_I_O\bin\Debug\net5.0\ref\BaseballTweaker_v2.File_I_O.dll
+C:\Users\cap-16\source\repos\BaseballTweaker_V2\BaseballTweaker_v2.File_I_O\bin\Debug\net5.0\BaseballTweaker_v2.File_I_O.pdb
+C:\Users\cap-16\source\repos\BaseballTweaker_V2\BaseballTweaker_v2.File_I_O\bin\Debug\net5.0\BaseballTweaker_V2.Model.dll
+C:\Users\cap-16\source\repos\BaseballTweaker_V2\BaseballTweaker_v2.File_I_O\bin\Debug\net5.0\BaseballTweaker_V2.Model.pdb
+C:\Users\cap-16\source\repos\BaseballTweaker_V2\BaseballTweaker_v2.File_I_O\obj\Debug\net5.0\BaseballTweaker_v2.File_I_O.csproj.CopyComplete
+C:\Users\cap-16\source\repos\BaseballTweaker_V2\BaseballTweaker_v2.File_I_O\obj\Debug\net5.0\BaseballTweaker_v2.File_I_O.dll
+C:\Users\cap-16\source\repos\BaseballTweaker_V2\BaseballTweaker_v2.File_I_O\obj\Debug\net5.0\ref\BaseballTweaker_v2.File_I_O.dll
+C:\Users\cap-16\source\repos\BaseballTweaker_V2\BaseballTweaker_v2.File_I_O\obj\Debug\net5.0\BaseballTweaker_v2.File_I_O.pdb

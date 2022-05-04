@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BaseballTweaker_v2.File_I_O\BaseballTweaker_v2.File_I_O.csproj" />
+    <ProjectReference Include="..\BaseballTweaker_V2.Model\BaseballTweaker_V2.Model.csproj" />
+  </ItemGroup>
+
+</Project>

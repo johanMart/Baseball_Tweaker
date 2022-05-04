@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BaseballTweaker_V2.Model\BaseballTweaker_V2.Model.csproj" />
+  </ItemGroup>
+
+</Project>

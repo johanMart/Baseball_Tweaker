@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cap-16\\source\\repos\\BaseballTweaker_V2\\BaseballTweaker_V2\\BaseballTweaker_V2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cap-16\\source\\repos\\BaseballTweaker_V2\\BaseballTweaker_v2.File_I_O\\BaseballTweaker_v2.File_I_O.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cap-16\\source\\repos\\BaseballTweaker_V2\\BaseballTweaker_v2.File_I_O\\BaseballTweaker_v2.File_I_O.csproj",
+        "projectName": "BaseballTweaker_v2.File_I_O",
+        "projectPath": "C:\\Users\\cap-16\\source\\repos\\BaseballTweaker_V2\\BaseballTweaker_v2.File_I_O\\BaseballTweaker_v2.File_I_O.csproj",
+        "packagesPath": "C:\\Users\\cap-16\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cap-16\\source\\repos\\BaseballTweaker_V2\\BaseballTweaker_v2.File_I_O\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cap-16\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\cap-16\\source\\repos\\BaseballTweaker_V2\\BaseballTweaker_V2.Model\\BaseballTweaker_V2.Model.csproj": {
+                "projectPath": "C:\\Users\\cap-16\\source\\repos\\BaseballTweaker_V2\\BaseballTweaker_V2.Model\\BaseballTweaker_V2.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\cap-16\\source\\repos\\BaseballTweaker_V2\\BaseballTweaker_V2.Model\\BaseballTweaker_V2.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cap-16\\source\\repos\\BaseballTweaker_V2\\BaseballTweaker_V2.Model\\BaseballTweaker_V2.Model.csproj",
+        "projectName": "BaseballTweaker_V2.Model",
+        "projectPath": "C:\\Users\\cap-16\\source\\repos\\BaseballTweaker_V2\\BaseballTweaker_V2.Model\\BaseballTweaker_V2.Model.csproj",
+        "packagesPath": "C:\\Users\\cap-16\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cap-16\\source\\repos\\BaseballTweaker_V2\\BaseballTweaker_V2.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cap-16\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\cap-16\\source\\repos\\BaseballTweaker_V2\\BaseballTweaker_V2\\BaseballTweaker_V2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cap-16\\source\\repos\\BaseballTweaker_V2\\BaseballTweaker_V2\\BaseballTweaker_V2.csproj",
+        "projectName": "BaseballTweaker_V2",
+        "projectPath": "C:\\Users\\cap-16\\source\\repos\\BaseballTweaker_V2\\BaseballTweaker_V2\\BaseballTweaker_V2.csproj",
+        "packagesPath": "C:\\Users\\cap-16\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cap-16\\source\\repos\\BaseballTweaker_V2\\BaseballTweaker_V2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cap-16\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\cap-16\\source\\repos\\BaseballTweaker_V2\\BaseballTweaker_v2.File_I_O\\BaseballTweaker_v2.File_I_O.csproj": {
+                "projectPath": "C:\\Users\\cap-16\\source\\repos\\BaseballTweaker_V2\\BaseballTweaker_v2.File_I_O\\BaseballTweaker_v2.File_I_O.csproj"
+              },
+              "C:\\Users\\cap-16\\source\\repos\\BaseballTweaker_V2\\BaseballTweaker_V2.Model\\BaseballTweaker_V2.Model.csproj": {
+                "projectPath": "C:\\Users\\cap-16\\source\\repos\\BaseballTweaker_V2\\BaseballTweaker_V2.Model\\BaseballTweaker_V2.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

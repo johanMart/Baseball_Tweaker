@@ -1,0 +1,12 @@
+C:\Users\cap-16\source\repos\BaseballTweaker_V2\BaseballTweaker_V2.Model\bin\Debug\net5.0\BaseballTweaker_V2.Model.deps.json
+C:\Users\cap-16\source\repos\BaseballTweaker_V2\BaseballTweaker_V2.Model\bin\Debug\net5.0\BaseballTweaker_V2.Model.dll
+C:\Users\cap-16\source\repos\BaseballTweaker_V2\BaseballTweaker_V2.Model\bin\Debug\net5.0\ref\BaseballTweaker_V2.Model.dll
+C:\Users\cap-16\source\repos\BaseballTweaker_V2\BaseballTweaker_V2.Model\bin\Debug\net5.0\BaseballTweaker_V2.Model.pdb
+C:\Users\cap-16\source\repos\BaseballTweaker_V2\BaseballTweaker_V2.Model\obj\Debug\net5.0\BaseballTweaker_V2.Model.csproj.AssemblyReference.cache
+C:\Users\cap-16\source\repos\BaseballTweaker_V2\BaseballTweaker_V2.Model\obj\Debug\net5.0\BaseballTweaker_V2.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cap-16\source\repos\BaseballTweaker_V2\BaseballTweaker_V2.Model\obj\Debug\net5.0\BaseballTweaker_V2.Model.AssemblyInfoInputs.cache
+C:\Users\cap-16\source\repos\BaseballTweaker_V2\BaseballTweaker_V2.Model\obj\Debug\net5.0\BaseballTweaker_V2.Model.AssemblyInfo.cs
+C:\Users\cap-16\source\repos\BaseballTweaker_V2\BaseballTweaker_V2.Model\obj\Debug\net5.0\BaseballTweaker_V2.Model.csproj.CoreCompileInputs.cache
+C:\Users\cap-16\source\repos\BaseballTweaker_V2\BaseballTweaker_V2.Model\obj\Debug\net5.0\BaseballTweaker_V2.Model.dll
+C:\Users\cap-16\source\repos\BaseballTweaker_V2\BaseballTweaker_V2.Model\obj\Debug\net5.0\ref\BaseballTweaker_V2.Model.dll
+C:\Users\cap-16\source\repos\BaseballTweaker_V2\BaseballTweaker_V2.Model\obj\Debug\net5.0\BaseballTweaker_V2.Model.pdb
